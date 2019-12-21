@@ -1,0 +1,13 @@
+{
+	"short_name": "Ravensburger Puzzle Clicky Game",
+	"name": "Ravensburger Puzzle Clicky Game - Built with React",
+	"icons": [{
+		"src": "",
+		"sizes": "128x128 64x64 32x32 24x24 16x16",
+		"type": "image/jpg"
+	}],
+	"start_url": "../index.html",
+	"display": "standalone",
+	"theme_color": "#000000",
+	"background_color": "#ffffff"
+}
